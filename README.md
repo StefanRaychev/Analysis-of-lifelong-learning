@@ -1,4 +1,4 @@
-Analysis of lifelong learning.
+# Analysis of lifelong learning.
 
 Lifelong learning is an important element of the country's economic and social system. On the one hand, it increases the quality of the workforce by maintaining up-to-date knowledge and skills. On the other hand, knowledge is the main tool against the defects of the democratic and market system - corruption, populism, labor and market exploitation, market and non-market imperfections, etc. For this reason, the analysis and promotion of lifelong learning is of vital importance for any government policy.
 
